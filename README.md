@@ -1,4 +1,4 @@
-# Doctor Recommendation Tool
+# Doctor Recommendation Tool Using Generative AI
 
 ## Description
 
